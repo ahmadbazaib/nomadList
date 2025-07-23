@@ -6,7 +6,7 @@ A sleek and responsive packing checklist app built with React. NomadList helps t
 
 ## 🌐 Live Demo
 
-🔗 [Visit NomadList on Netlify](https://your-netlify-link.netlify.app)
+🔗 [Visit NomadList on Netlify](https://nomadlist-app.netlify.app/)
 
 ---
 
